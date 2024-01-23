@@ -1,0 +1,12 @@
+
+/* Descendent selectors */
+/* It is applied for the direct child and indirect only*/
+/* li a {
+    color:red;
+    
+} */
+/* Direct child selectors */
+/* It is applied for the direct child only */
+body >a{
+    color:red;
+}
